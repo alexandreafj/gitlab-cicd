@@ -1,2 +1,8 @@
 # gitlab-cicd
-yml of cicd for deploy any static app.
+Use ci/cd to automate
+
+#Tecnolgies
+Surge
+docusaurus
+snyk
+broken-link
