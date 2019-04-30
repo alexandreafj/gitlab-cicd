@@ -1,7 +1,7 @@
 # gitlab-cicd
 Use ci/cd to automate
 
-#Tecnolgies
+# Tecnolgies
 Surge
 docusaurus
 snyk
